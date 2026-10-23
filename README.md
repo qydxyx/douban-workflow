@@ -10,7 +10,7 @@
 
 ### 安装
 
-* [点击 douban.alfredworkflow 下载安装](https://github.com/h3l/douban-workflow/raw/master/douban.alfredworkflow)
+* [点击下载最新版 douban.alfredworkflow 安装](https://github.com/qydxyx/douban-workflow/releases/latest/download/douban.alfredworkflow)
 
 ### 实际效果如下
 
